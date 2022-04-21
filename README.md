@@ -1,7 +1,7 @@
 Geiso Herrera 👋
-gargakshit
 
-I am Akshit Garg, an enthusiast currently hacking on some of my projects.
+
+I am Geiso Herrera, an enthusiast currently hacking on some of my projects.
 
 I love to work with cryptography, interpreters, compilers and distributed systems and retro computers. I am proficient with Elixir, ReScript, Golang, JavaScript, TypeScript and Dart amongst others. Currently hacking on wasm, retro systems and Phoenix LiveView (spoiler alert, I love it!)
 
