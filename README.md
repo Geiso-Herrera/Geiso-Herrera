@@ -1,6 +1,7 @@
 Geiso Herrera 👋
 
-https://i.gifer.com/3Wby.gif
+<img src="https://...thumbs-up.gif">
+
 
 I am Geiso Herrera, an enthusiast currently hacking on some of my projects.
 
