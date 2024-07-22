@@ -15,4 +15,3 @@
 
 </div><br/>
 
-<h2>I am passionate about technology and everything that involves the improvement and practicality of our day-to-day.</h2>
